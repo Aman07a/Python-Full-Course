@@ -5,3 +5,6 @@
 age = 21
 
 print("You are " + str(age) + " years old")
+
+# Separate Arguments
+print("You are", age, "years old")
