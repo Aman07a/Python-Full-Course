@@ -34,21 +34,21 @@
 # print(f"You ran {distance} Km")
 # print(f"The price is ${price}")
 
-# STRING
+# # STRING
+#
+# name = "Bro"
+# food = "pizza"
+# email = "Bro123@gmail.com"
+#
+# print(f"Hello {name}")
+# print(f"You like {food}")
+# print(f"Your email is: {email}")
 
-name = "Bro"
-food = "pizza"
-email = "Bro123@gmail.com"
-
-print(f"Hello {name}")
-print(f"You like {food}")
-print(f"Your email is: {email}")
-
-# BOOLEAN
-online = True
-for_sale = False
-running = True
-
-print(f"Are you online?: {online}")
-print(f"Is the item for sale?: {for_sale}")
-print(f"Game running: {running}")
+# # BOOLEAN
+# online = True
+# for_sale = False
+# running = True
+#
+# print(f"Are you online?: {online}")
+# print(f"Is the item for sale?: {for_sale}")
+# print(f"Game running: {running}")
