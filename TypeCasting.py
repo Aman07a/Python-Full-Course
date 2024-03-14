@@ -7,21 +7,21 @@ age = 21
 gpa = 1.9
 student = True
 
-# Type Function
+# # Type Function
 # print(type(name))
 # print(type(age))
 # print(type(gpa))
 # print(type(student))
 
-# Explicit Cast
-age = float(age)
-print(type(age))
-
-gpa = int(gpa)
-print(gpa)
-
-student = str(student)
-print(student)
-
-name = bool(name)
-print(name)
+# # Explicit Cast
+# age = float(age)
+# print(type(age))
+#
+# gpa = int(gpa)
+# print(gpa)
+#
+# student = str(student)
+# print(student)
+#
+# name = bool(name)
+# print(name)
