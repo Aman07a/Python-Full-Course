@@ -15,15 +15,28 @@
 #
 # print(remainder)
 
-# Build-In Functions
-x = 3.14
-y = 4
-z = 5
+# # Build-In Functions
+# x = 3.14
+# y = 4
+# z = 5
+#
+# # result = round(x)
+# # result = abs(y)
+# # result = pow(4, 3)
+# # result = max(x, y, z)
+# result = min(x, y, z)
+#
+# print(result)
 
-# result = round(x)
-# result = abs(y)
-# result = pow(4, 3)
-# result = max(x, y, z)
-result = min(x, y, z)
+# Math Module
+import math
+
+x = 9.1
+
+# print(math.pi)
+# print(math.e)
+# result = math.sqrt(x)
+# result = math.ceil(x)
+result = math.floor(x)
 
 print(result)
